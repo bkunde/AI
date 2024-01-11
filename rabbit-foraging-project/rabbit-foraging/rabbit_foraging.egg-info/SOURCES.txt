@@ -1,0 +1,7 @@
+README.md
+setup.py
+rabbit_foraging.egg-info/PKG-INFO
+rabbit_foraging.egg-info/SOURCES.txt
+rabbit_foraging.egg-info/dependency_links.txt
+rabbit_foraging.egg-info/requires.txt
+rabbit_foraging.egg-info/top_level.txt
